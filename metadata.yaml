@@ -15,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Michelet
     - http://en.wikipedia.org/wiki/Jules_Michelet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42845#The-Sea-La-Mer-
 gutenberg_issued: '2013-05-30'
 gutenberg_type: Text
 identifiers:
